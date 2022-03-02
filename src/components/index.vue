@@ -357,7 +357,7 @@ import { ref, computed } from 'vue'
     }
 
     .banner{
-        background-image: url("https://pixabay.com/get/g0be1b9e7c0d9f14495609aae2e6839589b8551c9d7ec37ea465b5c40378d06617f47d8bb45b6507afbe4cc64e211e9bf.jpg");
+        background-image: url("../../src/assets/foco.jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-attachment: fixed;
